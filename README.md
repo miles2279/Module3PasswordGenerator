@@ -1,5 +1,5 @@
 # Module3PasswordGenerator
-Random password generator Based on the following:
+The random password generator will promt the user and allow them to generate a random password based on the following:
 ...
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
